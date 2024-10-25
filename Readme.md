@@ -3,10 +3,10 @@ This project contains a simple `Car` class with methods to accelerate, brake, an
 
 ## Output Screen
 
-![Output Screen](images/outputscreen.png)
+![Output Screen](images/outputscreen.png) <--
 
 ## Class Diagram
-![Flowchart](images/ClassCar.png)
+![Flowchart](images/ClassCar.png) <---
 ## Files
 
 ### [Car.java](src/main/java/com/me/carclass/Car.java)
